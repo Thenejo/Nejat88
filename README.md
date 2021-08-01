@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nejat88
-- 👀 I’m interested in Game Engines and Gamedev 
-- 🌱 I’m currently learning SDL2
+- 👀 I’m interested in GameDev
+- 🌱 I’m currently learning Pygame
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me idk maybe you can see me on street
